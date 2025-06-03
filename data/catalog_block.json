@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"image": "rozy_test_1.jfif",
+		"description": "Букет из свежих роз",
+		"price": "11.300$",
+		"old_price": "13.300$",
+		"category": "тюльпаны",
+		"modal_details": {
+			"name": "Букет 'Розовая мечта'",
+			"composition": "Розы, эвкалипт, упаковочная бумага",
+			"size": "Высота: 50 см, диаметр: 30 см",
+			"color": "Розовый",
+			"additional_images": ["Rozy_Blcok.jpg", "rozy_test_1.jfif", "Rozy_test_2.jfif"]
+		}
+	},
+	{
+		"id": 2,
+		"image": "Rozy_Blcok.jpg",
+		"description": "101 Роза",
+		"price": "9.999$",
+		"old_price": "",
+		"category": "розы",
+		"modal_details": {
+			"name": "Букет '101 Роза'",
+			"composition": "Розы",
+			"size": "Высота: 60 см",
+			"color": "Красный",
+			"additional_images": []
+		}
+	},
+	{
+		"id": 3,
+		"image": "Rozy_Blcok.jpg",
+		"description": "Яркие тюльпаны",
+		"price": "7.500₽",
+		"old_price": "",
+		"category": "тюльпаны",
+		"modal_details": {
+			"name": "Букет 'Яркие тюльпаны'",
+			"composition": "Тюльпаны",
+			"size": "Высота: 40 см",
+			"color": "Разноцветный",
+			"additional_images": []
+		}
+	},
+	{
+		"id": 4,
+		"image": "Rozy_Blcok.jpg",
+		"description": "Яркие тюльпаны",
+		"price": "7.500$",
+		"old_price": "",
+		"category": "тюльпаны",
+		"modal_details": {
+			"name": "Букет 'Тюльпаны'",
+			"composition": "Тюльпаны",
+			"size": "Высота: 40 см",
+			"color": "Желтый",
+			"additional_images": []
+		}
+	}
+]
